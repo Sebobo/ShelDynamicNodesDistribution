@@ -1,6 +1,6 @@
 # Dynamic node type manager distribution for Neos CMS
 
-This Neos distribution allows you to try the DynamicNodetypes package for Neos CMS.
+This Neos distribution allows you to try the [DynamicNodetypes package](https://github.com/Sebobo/Shel.DynamicNodes) for Neos CMS.
 It's also for developing the package.
 
 ## Installation
